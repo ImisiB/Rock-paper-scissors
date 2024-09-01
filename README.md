@@ -7,4 +7,4 @@ In order to create a game of rock-paper-scissors, you need to follow these steps
 3. Create an if statement(if user_input == "rock"), then put another if statement under the first if statement of if(computer_choice == "rock"), then print(print("Your choice is rock")), then print(print("Computer's choice is rock")), then print(print("it is a tie")), then do that 3 times but with exactly the way the game is played(and use an elif statement)
 4. Do everything in number '3.' three times but with how the game is played. Create an if statement(if user_input == "exit":), then print something like(print("Game ended")), then put the var(exit = True), then print something like(print("Your total score is",str(user_point) , " and the computer score is", str(computer_point))). Create an else statement(else: print("invalid input"))
 
-Thats all for the calculator app, if you don't understand, look at the image;![alt text](image-1.png)
+Thats all for the calculator app, if you don't understand, look at the image(although it might be different from what i typed);![alt text](image-1.png)
